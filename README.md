@@ -2,7 +2,7 @@
 
 Me chamo **Rafael** e sou um jovem se aventurando no mundo da tecnologia.
 
-[![Header](urlAqui "Header")](https://www.linkedin.com/in/rafael-santos-30//)
+[![Header](https://raw.githubusercontent.com/Rafael30s/Rafael30s/main/bannerGithub.jpg "Header")](https://www.linkedin.com/in/rafael-santos-30//)
 
 <!--
 **Rafael30s/Rafael30s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
