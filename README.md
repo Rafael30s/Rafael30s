@@ -2,6 +2,8 @@
 
 Me chamo **Rafael** e sou um jovem se aventurando no mundo da tecnologia.
 
+[![Header](urlAqui "Header")](https://www.linkedin.com/in/rafael-santos-30//)
+
 <!--
 **Rafael30s/Rafael30s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,9 +22,7 @@ Here are some ideas to get you started:
 ## 🔧 Tecnologias & Ferramentas
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java.js&logoColor=white&color=F4D03F)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F4D03F)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css.js&logoColor=white&color=3498DB)
 ![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react.js&logoColor=white&color=3498DB)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=e44d26)
 ![](https://img.shields.io/badge/Data-MySql-informational?style=flat&logo=mysql.js&logoColor=white&color=BDC3C7)
 ![](https://img.shields.io/badge/Data-SqlServer-informational?style=flat&logo=sqlserver.js&logoColor=white&color=BDC3C7)
 ![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=springboot.js&logoColor=white&color=58D68D)
