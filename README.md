@@ -1,6 +1,8 @@
 ### Opa, pessoal! 👋
 
-Me chamo **Rafael** e sou um jovem se aventurando no mundo da tecnologia.
+Sou Rafael, estou atuando como Analista de Sistemas e estou buscando o aprimoramento das minhas habilidades como desenvolvedor.
+
+Ao longo dos meus 4 anos de experiência, desenvolvi uma sólida base em mapeamento de requisitos, construção de User Stories, definição de regras para APIs internas, estruturação de banco com SQL Server, além de desenvolvimento de processos em ferramentas Low Code BPMN, como Zeev entre outras. Durante esse período, participei ativamente da homologação de funções, trabalhando ao lado dos stakeholders para garantir a entrega de soluções de alta qualidade. Minha experiência abrange a gestão de tarefas, disseminação e aplicação de práticas de gerenciamento, além do acompanhamento do progresso das rotinas e identificação de riscos.
 
 [![Header](https://raw.githubusercontent.com/Rafael30s/Rafael30s/main/bannerGithub.jpg "Header")](https://www.linkedin.com/in/rafael-santos-30/)
 
